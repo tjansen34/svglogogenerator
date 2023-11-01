@@ -1,4 +1,4 @@
-# week10challenge-OOP
+# SVG Logo Generator
 
 # Description
     created an application for a logo generator using SVG files. the techinques i used include classes combinded with iquirer to prompt questions for the user to select image shape, color and text.
